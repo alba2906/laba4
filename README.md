@@ -269,6 +269,7 @@ U.S.A.
   <img width="881" height="487" alt="image" src="https://github.com/user-attachments/assets/4e88341b-67eb-493e-bebc-032190f11ae3" />
 
 * HEX
+<img width="872" height="445" alt="image" src="https://github.com/user-attachments/assets/a9582831-f76c-46b8-ab21-6571371da6be" />
 
 * акронимы regex
 * акронимы автомат
