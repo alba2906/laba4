@@ -278,6 +278,8 @@ U.S.A.
   <img width="882" height="492" alt="image" src="https://github.com/user-attachments/assets/904dcea1-9cc4-4ad6-b1c8-48e49a34f384" />
 
 * HTML
+  <img width="867" height="445" alt="image" src="https://github.com/user-attachments/assets/7f1ea1ac-690a-47a3-955e-92588f2d7472" />
+
 * подсветка
 
 ---
