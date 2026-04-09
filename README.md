@@ -199,7 +199,7 @@
 
 ## Граф автомата
 
-<img width="732" height="294" alt="image" src="https://github.com/user-attachments/assets/039337f9-8c25-43bc-a6d4-747db0047c91" />
+<img width="532" height="283" alt="image" src="https://github.com/user-attachments/assets/b1180a47-2bf5-4198-8071-afb9bb97b1d6" />
 
 
 
