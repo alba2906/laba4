@@ -266,18 +266,22 @@ U.S.A.
 # Скриншоты
 
 * общий вид
+  
   <img width="881" height="487" alt="image" src="https://github.com/user-attachments/assets/4e88341b-67eb-493e-bebc-032190f11ae3" />
 
 * HEX
+  
 <img width="872" height="445" alt="image" src="https://github.com/user-attachments/assets/a9582831-f76c-46b8-ab21-6571371da6be" />
 
 * акронимы regex
   <img width="871" height="473" alt="image" src="https://github.com/user-attachments/assets/eb2f269d-8c9c-4c81-9ec8-30bb4d9c0611" />
 
 * акронимы автомат
+  
   <img width="882" height="492" alt="image" src="https://github.com/user-attachments/assets/904dcea1-9cc4-4ad6-b1c8-48e49a34f384" />
 
 * HTML
+  
   <img width="867" height="445" alt="image" src="https://github.com/user-attachments/assets/7f1ea1ac-690a-47a3-955e-92588f2d7472" />
 
 * подсветка
