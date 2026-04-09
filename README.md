@@ -199,7 +199,8 @@
 
 ## Граф автомата
 
-![Граф автомата](images/automaton_russian.png)
+<img width="568" height="229" alt="image" src="https://github.com/user-attachments/assets/b4c55eed-d036-49e8-a5e1-451c101b1377" />
+
 
 ---
 
